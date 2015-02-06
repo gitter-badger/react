@@ -1,5 +1,7 @@
 # [React](http://facebook.github.io/react) [![Build Status](https://travis-ci.org/facebook/react.svg?branch=master)](https://travis-ci.org/facebook/react)
 
+[![Join the chat at https://gitter.im/jaisonjustus/react](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jaisonjustus/react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 React is a JavaScript library for building user interfaces.
 
 * **Just the UI:** Lots of people use React as the V in MVC. Since React makes no assumptions about the rest of your technology stack, it's easy to try it out on a small feature in an existing project.
